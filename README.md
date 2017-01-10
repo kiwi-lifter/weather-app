@@ -21,6 +21,6 @@ Open the dist/index.html on a local webserver such as [IIS](https://msdn.microso
 
 ##Copyright and License
 
-Code and documentation copyright 2017, released under the [MIT license](https://github.com/kiwi-lifter/kiwi-lifter.github.io/blob/master/LICENSE.txt).
+Code and documentation copyright 2017, released under the MIT license.
 
 
